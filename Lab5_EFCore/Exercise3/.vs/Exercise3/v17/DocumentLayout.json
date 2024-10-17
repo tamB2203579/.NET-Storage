@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise3\\forms\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|solutionrelative:forms\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise3\\forms\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|solutionrelative:forms\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise3\\repository\\ttrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|solutionrelative:repository\\ttrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise3\\repository\\ittrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|solutionrelative:repository\\ittrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise3\\models\\thanhtoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|solutionrelative:models\\thanhtoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise3\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E44B7-BE2C-43D6-B238-719DF7C65A59}|Exercise3.csproj|solutionrelative:models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThanhToanContext.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Models\\ThanhToanContext.cs",
+              "RelativeDocumentMoniker": "Models\\ThanhToanContext.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Models\\ThanhToanContext.cs",
+              "RelativeToolTip": "Models\\ThanhToanContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:40:45.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TTRepository.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Repository\\TTRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TTRepository.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Repository\\TTRepository.cs",
+              "RelativeToolTip": "Repository\\TTRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:40:00.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITTRepository.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Repository\\ITTRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ITTRepository.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Repository\\ITTRepository.cs",
+              "RelativeToolTip": "Repository\\ITTRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:39:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Khachhang.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Models\\Khachhang.cs",
+              "RelativeDocumentMoniker": "Models\\Khachhang.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Models\\Khachhang.cs",
+              "RelativeToolTip": "Models\\Khachhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:31:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmThanhToan.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Forms\\frmThanhToan.cs",
+              "RelativeDocumentMoniker": "Forms\\frmThanhToan.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Forms\\frmThanhToan.cs",
+              "RelativeToolTip": "Forms\\frmThanhToan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:23:06.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmThanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Forms\\frmThanhToan.cs",
+              "RelativeDocumentMoniker": "Forms\\frmThanhToan.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Forms\\frmThanhToan.cs [Design]",
+              "RelativeToolTip": "Forms\\frmThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:23:05.415Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:54:20.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

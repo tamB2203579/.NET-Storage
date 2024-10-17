@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{980461E5-0577-4AD6-9378-B46B29B274D0}|Exercise1.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise1\\forms\\frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980461E5-0577-4AD6-9378-B46B29B274D0}|Exercise1.csproj|solutionrelative:forms\\frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980461E5-0577-4AD6-9378-B46B29B274D0}|Exercise1.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980461E5-0577-4AD6-9378-B46B29B274D0}|Exercise1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980461E5-0577-4AD6-9378-B46B29B274D0}|Exercise1.csproj|d:\\b2203579\\3rd_year\\.net_programming\\lab4_efcore\\exercise1\\forms\\frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980461E5-0577-4AD6-9378-B46B29B274D0}|Exercise1.csproj|solutionrelative:forms\\frmdvdcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:07:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDVDCatalog.cs",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise1\\Forms\\frmDVDCatalog.cs",
+              "RelativeDocumentMoniker": "Forms\\frmDVDCatalog.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise1\\Forms\\frmDVDCatalog.cs",
+              "RelativeToolTip": "Forms\\frmDVDCatalog.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:07:25.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDVDCatalog.cs [Design]",
+              "DocumentMoniker": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise1\\Forms\\frmDVDCatalog.cs",
+              "RelativeDocumentMoniker": "Forms\\frmDVDCatalog.cs",
+              "ToolTip": "D:\\B2203579\\3rd_Year\\.NET_Programming\\Lab4_EFCore\\Exercise1\\Forms\\frmDVDCatalog.cs [Design]",
+              "RelativeToolTip": "Forms\\frmDVDCatalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:52:38.142Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
